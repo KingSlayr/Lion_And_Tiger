@@ -4,6 +4,6 @@
 
 Android APP using JAVA
 
-<img src="5bf9ad.gif" alt="drawing" width="150"/>
+<img src="5bf9ad.gif" alt="drawing" width="350"/>
 <br/>
-<img src="lionAndTiger.jpg" alt="drawing" width="150"/>
+<img src="lionAndTiger.jpg" alt="drawing" width="350"/>
