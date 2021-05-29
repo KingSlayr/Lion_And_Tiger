@@ -4,4 +4,6 @@
 
 Android APP using JAVA
 
-![lionAndTiger](lionAndTiger.jpg)
+<img src="5bf9ad.gif" alt="drawing" width="150"/>
+<br/>
+<img src="lionAndTiger.jpg" alt="drawing" width="150"/>
